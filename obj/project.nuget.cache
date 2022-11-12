@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUgLx4pXNDzDE6iC9+EVRczpWkRL4jUdROrw9CtSiJoANdbsu6XLfocAdfHWsr6gHfO3vFX2jWPR8qzld9bDtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thaol\\OneDrive\\Desktop\\Net5RestApiTutorial_10\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thaol\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\thaol\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
